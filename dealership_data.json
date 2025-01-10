@@ -1,0 +1,27 @@
+{
+    "employees": [
+        {
+            "full_name": "Іван Іваненко",
+            "position": "Менеджер",
+            "phone": "123-456-789",
+            "email": "ivan@example.com"
+        }
+    ],
+    "cars": [
+        {
+            "manufacturer": "Toyota",
+            "model": "Corolla",
+            "year": 2020,
+            "cost_price": 15000,
+            "sale_price": 20000
+        }
+    ],
+    "sales": [
+        {
+            "employee": "Іван Іваненко",
+            "car": "Toyota Corolla (2020)",
+            "sale_date": "2025-01-01",
+            "actual_price": 19000
+        }
+    ]
+}
