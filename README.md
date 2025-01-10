@@ -33,7 +33,7 @@
 
 1. Клонуйте репозиторій:
    ```bash
-   git clone https://github.com/ваш-репозиторій.git
+   git clone https://github.com/Maxxesh/CarDealership.git
    
 2. Перейдіть до директорії проекту:
 cd car-dealership
